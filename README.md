@@ -62,6 +62,8 @@ calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido par
 si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje
 a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
+![22](https://user-images.githubusercontent.com/105374903/171089038-0b22b9df-f1a4-4aca-b80d-151eb43c2f2f.jpg)
+
 24 Calcule el voltaje para cada valor de I y R:
 
 26 Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
