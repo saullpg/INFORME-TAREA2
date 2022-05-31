@@ -116,7 +116,7 @@ kilowatts-hora de energía consume?
 
 14 Convierta 5x10<sup>6</sup> watts-minutos en kWh.
 
-16 ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir
+16 ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 OHM para consumir
 25 J?
 
 18 Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
