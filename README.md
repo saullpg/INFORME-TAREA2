@@ -71,6 +71,8 @@ a través del reóstato es la diferencia entre el voltaje del elemento calentado
 26 Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
 obtener las cantidades de corriente indicadas.
 
+![26](https://user-images.githubusercontent.com/105374903/171202173-750ee15c-9c20-46c9-b4f0-033bc2e15864.jpg)
+
 28 Encuentre la resistencia de un reóstato para cada valor de V e I:
 
 ![28](https://user-images.githubusercontent.com/105374903/171198115-2488292a-28eb-400d-b346-6e9b8a5b2e61.jpg)
