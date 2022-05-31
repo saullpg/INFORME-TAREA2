@@ -125,7 +125,7 @@ kilowatts-hora de energía consume?
 
 22 Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
 
-24 Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe
+24 Si un resistor tiene que transportar 2 A de corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe
 ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
 26 Un resistor de 6.8 kOHM se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
