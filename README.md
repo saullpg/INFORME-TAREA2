@@ -18,7 +18,7 @@
 6 En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes
 en el mismo circuito.
 
-<img width="161" alt="image" src="https://user-images.githubusercontent.com/105374903/171079216-5a3ae4dd-a7ef-4645-805b-79da04917745.png">
+![6](https://user-images.githubusercontent.com/105374903/171079264-98c0f621-8081-4a87-81da-01dbd20b84b3.jpg)
 
 8 Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
