@@ -92,6 +92,8 @@ Para calcular la resistencia que se esta usando podemos utlizar la formula de Re
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
 sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 OHM.
 
+![34](https://user-images.githubusercontent.com/105374903/171284495-0e35712f-a3d2-4642-90e7-88e5837e3d4f.jpg)
+
 36 En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas.
 
