@@ -103,30 +103,54 @@ ohmmetro mostradas.
 
 2 Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora.
 
+![2](https://user-images.githubusercontent.com/105374903/171295807-79019a9c-4428-45af-90b7-633e7d58e0c3.jpg)
+
 4 Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![4](https://user-images.githubusercontent.com/105374903/171295831-85de75d8-dd7d-4aa0-afd5-12b6d46dc9ab.jpg)
 
 6 Convierta las siguientes cantidades en kilowatts:
 
+![6](https://user-images.githubusercontent.com/105374903/171295833-fa7c5086-99e7-493a-a2ca-5854b9a463f0.jpg)
+
 8 Convierta las siguientes cantidades en miliwatts:
 
+![8](https://user-images.githubusercontent.com/105374903/171295842-858018e1-3318-4f4e-9d17-9972186d0a1e.jpg)
+
 10 Convierta las siguientes cantidades en watts:
+
+![10](https://user-images.githubusercontent.com/105374903/171295847-089a0023-5740-447a-a138-1307de867322.jpg)
 
 12 Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
 kilowatts-hora de energía consume?
 
+![12](https://user-images.githubusercontent.com/105374903/171295849-2584ecd9-5da8-4d7e-8704-1c258392fef1.jpg)
+
 14 Convierta 5x10<sup>6</sup> watts-minutos en kWh.
+
+![14](https://user-images.githubusercontent.com/105374903/171295860-5dc8797c-ad2f-4c31-b46e-82076dfcdcca.jpg)
 
 16 ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 OHM para consumir
 25 J?
 
+![16](https://user-images.githubusercontent.com/105374903/171295867-f3b1210b-3932-418b-90ee-4fa872608c8a.jpg)
+
 18 Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![18](https://user-images.githubusercontent.com/105374903/171295877-783c0be9-0fed-440f-a534-eabefd43184c.jpg)
 
 20 ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kOHM?
 
+![20](https://user-images.githubusercontent.com/105374903/171295882-293d33ac-1950-4d5a-a2e8-62eb4b2dff2e.jpg)
+
 22 Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+![22](https://user-images.githubusercontent.com/105374903/171295888-21cc742e-a8bf-43a0-b378-209e393effe5.jpg)
 
 24 Si un resistor tiene que transportar 2 A de corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe
 ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![24](https://user-images.githubusercontent.com/105374903/171295896-0d7a3c1d-23b1-4a95-aca2-ffc87be5ad6a.jpg)
 
 26 Un resistor de 6.8 kOHM se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
 de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
