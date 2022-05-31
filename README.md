@@ -23,6 +23,8 @@ en el mismo circuito.
 8 Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
 rojo, oro.
 
+![8](https://user-images.githubusercontent.com/105374903/171080164-d918ca42-50da-44ee-baac-88a0a897e292.jpg)
+
 10 ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 12 Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
