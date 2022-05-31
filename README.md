@@ -54,6 +54,8 @@ máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del r
 20 Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
 de colores es naranja, violeta, amarillo, oro, café.
 
+![20](https://user-images.githubusercontent.com/105374903/171087996-8aa16257-eb7b-48f9-a08b-c9d0ed5898e8.jpg)
+
 22 El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada
 a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 OHM o menos, el elemento
 calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito
