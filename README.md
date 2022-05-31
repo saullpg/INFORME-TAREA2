@@ -44,6 +44,8 @@ Respuesta: Estas gráficas indica que un cambio en el voltaje produce un cambio 
 
 16 Determine la corriente en cada caso:
 
+![16](https://user-images.githubusercontent.com/105374903/171086198-10a3a6e4-160a-4f01-bfc6-7b48e3e94e41.jpg)
+
 18 Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
 máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
