@@ -77,6 +77,8 @@ obtener las cantidades de corriente indicadas.
 
 30 Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
+![30](https://user-images.githubusercontent.com/105374903/171198664-db5c9531-3301-4026-9913-2321b1fae2e2.jpg)
+
 32 Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito
 necesarias.
