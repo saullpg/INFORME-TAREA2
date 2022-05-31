@@ -49,6 +49,8 @@ Respuesta: Estas gráficas indica que un cambio en el voltaje produce un cambio 
 18 Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
 máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
+![18](https://user-images.githubusercontent.com/105374903/171087443-219e8e71-f9f7-4a2a-984a-75ee7c990acf.jpg)
+
 20 Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
 de colores es naranja, violeta, amarillo, oro, café.
 
