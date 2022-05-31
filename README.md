@@ -9,7 +9,7 @@
 ### EJERCICIOS CAPITULO 1
 2 Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
-<img width="95" alt="image" src="https://user-images.githubusercontent.com/105374903/171078103-a957c7b5-ba7b-415a-b478-97f699b5f1f7.png">
+<img width="64" alt="image" src="https://user-images.githubusercontent.com/105374903/171078254-677b7d2b-6e3a-4e35-a122-c00c2286161c.png">
 
 4 Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
