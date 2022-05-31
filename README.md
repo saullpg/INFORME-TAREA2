@@ -13,6 +13,8 @@
 
 4 Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
+<img width="70" alt="image" src="https://user-images.githubusercontent.com/105374903/171078210-b9da58b9-1ea1-41eb-8a20-1f3a3771c321.png">
+
 6 En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes
 en el mismo circuito.
 8 Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
