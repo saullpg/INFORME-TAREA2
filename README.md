@@ -73,6 +73,8 @@ obtener las cantidades de corriente indicadas.
 
 28 Encuentre la resistencia de un reóstato para cada valor de V e I:
 
+![28](https://user-images.githubusercontent.com/105374903/171198115-2488292a-28eb-400d-b346-6e9b8a5b2e61.jpg)
+
 30 Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
 32 Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
