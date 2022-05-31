@@ -85,6 +85,8 @@ obtener las cantidades de corriente indicadas.
 amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito
 necesarias.
 
+![32](https://user-images.githubusercontent.com/105374903/171280105-9d4b26ac-67a2-4623-ab12-9e79b771dd80.jpg)
+
 34 Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
 sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 OHM.
