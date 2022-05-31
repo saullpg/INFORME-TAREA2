@@ -8,8 +8,8 @@
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 1
 2 Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
-<img width="95" alt="image" src="https://user-images.githubusercontent.com/105374903/171078103-a957c7b5-ba7b-415a-b478-97f699b5f1f7.png">
 
+<img width="95" alt="image" src="https://user-images.githubusercontent.com/105374903/171078103-a957c7b5-ba7b-415a-b478-97f699b5f1f7.png">
 
 4 Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
