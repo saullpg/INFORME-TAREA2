@@ -95,6 +95,8 @@ sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 OHM.
 36 En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
 ohmmetro mostradas.
 
+![36](https://user-images.githubusercontent.com/105374903/171281902-ebe76a6d-127a-423a-87bd-b6fceceffe9d.jpg)
+
 ### EJERCICIOS CAPITULO 2
 
 2 Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora.
