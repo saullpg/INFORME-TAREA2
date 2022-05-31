@@ -36,6 +36,12 @@ de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deb
 
 14 ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
+![14 1](https://user-images.githubusercontent.com/105374903/171085266-bb2977b6-afa2-4585-a1f6-63d2cb7002a3.jpg)
+
+![14 2](https://user-images.githubusercontent.com/105374903/171085282-4c0822ad-1ca7-4892-b353-374632c633d6.jpg)
+
+Respuesta: Estas gráficas indica que un cambio en el voltaje produce un cambio linealmente proporcional de la corriente. No importa cuál sea el valor de la Resistencia, suponiendo que la Resistencia es constante, la gráfica de Intensidad frente a Voltaje siempre será una línea recta.
+
 16 Determine la corriente en cada caso:
 
 18 Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
