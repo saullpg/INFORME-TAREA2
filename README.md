@@ -86,6 +86,7 @@ amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trac
 necesarias.
 
 ![32](https://user-images.githubusercontent.com/105374903/171280105-9d4b26ac-67a2-4623-ab12-9e79b771dd80.jpg)
+Para calcular la resistencia que se esta usando podemos utlizar la formula de Resistencia que es Voltaje/Intensidad. El voltaje es un valor que nos da el ejercicio que es de 12V y mediante el uso de un amperímetro conoceremos la corriente que circula por el circuito por lo tanto tenemos los datos para obtener la Resistencia.
 
 34 Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente
 excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato
