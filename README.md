@@ -27,6 +27,8 @@ rojo, oro.
 
 10 ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
+![10](https://user-images.githubusercontent.com/105374903/171081669-b52a8af2-cb51-4d72-b918-ba9ea3e5abba.jpg)
+
 12 Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
 de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
