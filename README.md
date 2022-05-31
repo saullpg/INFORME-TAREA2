@@ -66,6 +66,8 @@ a través del reóstato es la diferencia entre el voltaje del elemento calentado
 
 24 Calcule el voltaje para cada valor de I y R:
 
+![24](https://user-images.githubusercontent.com/105374903/171090128-f0a7d186-459a-453d-96b5-d3e008ad0f47.jpg)
+
 26 Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
 obtener las cantidades de corriente indicadas.
 
