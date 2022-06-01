@@ -156,8 +156,12 @@ ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
 que dispone de resistores en todas las clasificaciones de potencia estándar.
 
+![26](https://user-images.githubusercontent.com/105374903/171307521-e16dbfe6-3744-4804-9ea5-ca5275747387.jpg)
+
 28 En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos
 del resistor.
+
+![28](https://user-images.githubusercontent.com/105374903/171307528-c0c77f27-3166-4bc7-9238-2ddfa4b1c726.jpg)
 
 30 Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas
 en una carga de 10 OHM antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga
@@ -166,10 +170,16 @@ durante la vida de la batería?
 32 Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad
 en amperes-hora?
 
+![32](https://user-images.githubusercontent.com/105374903/171307539-bdc37863-aa08-4941-ad43-f5cbbf52c7ad.jpg)
+
 34 Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![34](https://user-images.githubusercontent.com/105374903/171307546-f0cdc947-13f6-4c37-bc6f-99ac996786a3.jpg)
 
 36 Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de
 entrada es de 5 W?
+
+![36](https://user-images.githubusercontent.com/105374903/171307553-f37e3320-a9ae-47fb-aa2b-c421daaf534d.jpg)
 
 
 #### 4. VIDEO
