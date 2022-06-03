@@ -186,3 +186,7 @@ entrada es de 5 W?
 #### 5. CONCLUSIONES
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
+
+Ley de Ohm - Economipedia. (2022). Economipedia. https://economipedia.com/definiciones/ley-de-ohm.html
+
+‌
