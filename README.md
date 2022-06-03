@@ -197,7 +197,9 @@ entrada es de 5 W?
 #### 5. CONCLUSIONES
 
 -La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia
+
 -Mientas más grande es el área superficial de un resistor más potencia puede disipar
+
 -La medición en la localización de fallas nos ayuda ha identificar el elemento dañado dentro de un circuito
 
 #### 6. BIBLIOGRAFIA
