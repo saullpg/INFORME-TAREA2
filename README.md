@@ -2,11 +2,14 @@
 
 #### 1. OBJETIVO
 ##### 1.1. OBJETIVO GENERAL
+
+- Implementar la ley de ohm y potencia en circuitos eléctricos básicos.  
+
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-- Identificar la relación de Voltaje,Corriente y Resistencia
-- Conocer los pasos para la localización de fallas
-- Calcular la potencia en un circuito
+- Identificar la relación de Voltaje,Corriente y Resistencia.
+- Conocer los pasos para la localización de fallas.
+- Calcular la potencia en un circuito.
 
 #### 2. MARCO TEORICO
 
@@ -196,11 +199,11 @@ entrada es de 5 W?
 #### 4. VIDEO
 #### 5. CONCLUSIONES
 
-- La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia
+- La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia.
 
-- Mientas más grande es el área superficial de un resistor más potencia puede disipar
+- Mientas más grande es el área superficial de un resistor más potencia puede disipar.
 
-- La medición en la localización de fallas nos ayuda ha identificar el elemento dañado dentro de un circuito
+- La medición en la localización de fallas nos ayuda ha identificar el elemento dañado dentro de un circuito.
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
