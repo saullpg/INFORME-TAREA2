@@ -6,6 +6,7 @@
 
 - Identificar la relación de Voltaje,Corriente y Resistencia
 - Conocer los pasos para la localización de fallas
+- Calcular la potencia en un circuito
 
 #### 2. MARCO TEORICO
 
