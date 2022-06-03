@@ -197,6 +197,7 @@ entrada es de 5 W?
 #### 5. CONCLUSIONES
 
 -La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia
+-Mientas más grande es
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
