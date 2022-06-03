@@ -14,6 +14,7 @@
 
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/105374903/171769057-9a2290b8-a4ef-43cd-8786-f63bf993dc06.png)
 
+![ohm](https://user-images.githubusercontent.com/105374903/171769820-3b60598c-dd1e-4392-bcd0-4f0e128559b2.jpg)
 
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 1
