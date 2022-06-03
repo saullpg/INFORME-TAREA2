@@ -197,6 +197,9 @@ entrada es de 5 W?
 
 
 #### 4. VIDEO
+
+https://youtu.be/wI5LbDMZiWs
+
 #### 5. CONCLUSIONES
 
 - La intensidad que recorre un circuito es directamente proporcional al voltaje de la fuente e inversamente proporcional a la resistencia.
