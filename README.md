@@ -12,6 +12,9 @@
 
 ![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/171761830-ce92bba0-450a-41bb-a615-1d7e3a1cc27c.png)
 
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/105374903/171769057-9a2290b8-a4ef-43cd-8786-f63bf993dc06.png)
+
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 1
 2 Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
