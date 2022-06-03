@@ -157,7 +157,7 @@ kilowatts-hora de energía consume?
 
 ![20](https://user-images.githubusercontent.com/105374903/171295882-293d33ac-1950-4d5a-a2e8-62eb4b2dff2e.jpg)
 
-22 Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+22 Si entre los extremos de un resistor de 680 OHM existen 60 V, ¿cuál es la potencia?
 
 ![22](https://user-images.githubusercontent.com/105374903/171295888-21cc742e-a8bf-43a0-b378-209e393effe5.jpg)
 
