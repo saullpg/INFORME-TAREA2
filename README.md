@@ -4,7 +4,8 @@
 ##### 1.1. OBJETIVO GENERAL
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-*Identificar la relación de Voltaje,Corriente y Resistencia
+- Identificar la relación de Voltaje,Corriente y Resistencia
+- Conocer los pasos para la localización de fallas
 
 #### 2. MARCO TEORICO
 
